@@ -159,40 +159,6 @@ This comprehensive analytics project demonstrates advanced data science capabili
 - 45% faster product development cycles with integrated A/B testing framework
 - 60% reduction in manual analysis time through automated intelligence systems
 
-## 🧪 Experimental Design Examples
-
-### A/B Testing Framework
-```python
-# Sample experiment configuration
-experiment_config = {
-    "name": "onboarding_flow_optimization",
-    "hypothesis": "Simplified onboarding increases trial conversion",
-    "metrics": {
-        "primary": "trial_to_paid_conversion_rate",
-        "secondary": ["time_to_first_value", "feature_adoption_rate"]
-    },
-    "sample_size": 10000,
-    "duration_days": 14,
-    "statistical_power": 0.8,
-    "significance_level": 0.05
-}
-```
-
-### User Segmentation Algorithm
-```python
-# Advanced behavioral clustering for user classification
-def create_user_segments(user_data):
-    segmentation_features = ['usage_frequency', 'feature_breadth', 'engagement_depth', 'value_realization']
-    
-    segments = {
-        "power_users": (user_data.usage_frequency >= 0.8) & (user_data.feature_breadth >= 0.7),
-        "growing_users": (user_data.engagement_depth >= 0.6) & (user_data.value_realization >= 0.5),
-        "casual_users": (user_data.usage_frequency < 0.5) & (user_data.engagement_depth < 0.4),
-        "exploration_users": (user_data.feature_breadth >= 0.6) & (user_data.usage_frequency < 0.6),
-        "at_risk_users": (user_data.engagement_depth < 0.3) & (user_data.value_realization < 0.3)
-    }
-    return segments
-```
 
 ## 📊 Dashboard Screenshots
 
