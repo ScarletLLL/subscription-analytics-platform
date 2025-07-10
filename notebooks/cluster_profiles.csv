@@ -1,0 +1,5 @@
+,sales_sum,sales_sum,sales_mean,sales_mean,sales_count,sales_count,sales_std,sales_std,order_date_count,order_date_count,product_count,product_count,product_nunique,product_nunique,country_count,country_count
+,mean,median,mean,median,mean,median,mean,median,mean,median,mean,median,mean,median,mean,median
+cluster,,,,,,,,,,,,,,,,
+0,30792.65,29783.46,238.78,227.23,130.83,131.0,567.32,501.4,130.83,131.0,130.83,131.0,13.19,13.0,130.83,131.0
+1,16345.12,15809.56,224.06,209.79,73.94,76.5,503.75,422.75,73.94,76.5,73.94,76.5,12.31,12.0,73.94,76.5

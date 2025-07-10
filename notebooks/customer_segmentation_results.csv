@@ -1,0 +1,100 @@
+customer,cluster,segment_name,segment_description,sales_sum,sales_mean,sales_count,sales_std
+AT&T,0,High-Performance Segment 0,High-value customers with strong engagement,29462.324,195.1147284768212,151,474.6849237465196
+Abbott Laboratories,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,12617.114,188.3151343283582,67,380.220981390045
+Aetna,0,High-Performance Segment 0,High-value customers with strong engagement,27278.593,178.29145751633988,153,362.9878189102724
+Airbus,0,High-Performance Segment 0,High-value customers with strong engagement,29798.592999999997,242.26498373983736,123,548.77589824022
+Allianz,0,High-Performance Segment 0,High-value customers with strong engagement,42904.167,223.45920312500002,192,536.0707891237837
+Allstate,0,High-Performance Segment 0,High-value customers with strong engagement,39941.64,380.3965714285714,105,759.9480815528663
+Alphabet,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,16116.461,366.2832045454545,44,864.0623544925387
+Amazon,0,High-Performance Segment 0,High-value customers with strong engagement,23189.2165,173.05385447761194,134,293.4170395061728
+American Express,0,High-Performance Segment 0,High-value customers with strong engagement,33514.921,244.6344598540146,137,430.9466464875699
+AmerisourceBergen,0,High-Performance Segment 0,High-value customers with strong engagement,39234.761,263.3205436241611,149,560.4617419521455
+Anthem,0,High-Performance Segment 0,High-value customers with strong engagement,55719.21,415.815,134,2115.938562799611
+Apple,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,23069.417999999998,250.75454347826084,92,649.8044366146441
+Aviva,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,14863.527,148.63527,100,280.17029006493135
+BMW,0,High-Performance Segment 0,High-value customers with strong engagement,39083.79,352.10621621621624,111,996.7072424806541
+BNP Paribas,0,High-Performance Segment 0,High-value customers with strong engagement,37543.7998,240.66538333333332,156,540.4605106809295
+Banco Santander,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,11065.0582,131.72688333333332,84,181.5602636936353
+Bank of America Corp.,0,High-Performance Segment 0,High-value customers with strong engagement,41255.9471,312.54505378787877,132,571.573645828064
+Berkshire Hathaway,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,7100.929,182.07510256410256,39,284.8038067668407
+Boeing,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,14296.148000000001,158.84608888888891,90,302.5875156408099
+Bosch,0,High-Performance Segment 0,High-value customers with strong engagement,25444.999,213.82352100840336,119,415.2372791066522
+CVS Health,0,High-Performance Segment 0,High-value customers with strong engagement,23736.8515,181.1973396946565,131,360.5441536428507
+Carrefour,0,High-Performance Segment 0,High-value customers with strong engagement,16799.7325,139.9977708333333,120,234.75067193739488
+Caterpillar,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,20865.1,242.6174418604651,86,321.8574096202743
+Chevron,0,High-Performance Segment 0,High-value customers with strong engagement,34912.1605,231.2063609271523,151,501.404151753198
+China National Petroleum,0,High-Performance Segment 0,High-value customers with strong engagement,20290.341,171.95204237288135,118,407.9409486875844
+Cigna,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,12130.728000000001,159.61484210526316,76,342.7245566042427
+Cisco Systems,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,19780.466,206.04652083333335,96,359.92724064209295
+Citigroup,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,6132.521000000001,278.7509545454546,22,622.7894955127276
+Coca-Cola,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,28643.804,353.6272098765432,81,1947.4268297035565
+Comcast,0,High-Performance Segment 0,High-value customers with strong engagement,25597.57,158.99111801242236,161,330.44355516255314
+ConocoPhillips,0,High-Performance Segment 0,High-value customers with strong engagement,32291.4686,227.40470845070422,142,489.04042879539634
+Costco Wholesale,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,21796.702,351.5597096774194,62,1125.1054914187246
+Daimler,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,19422.272,206.61991489361702,94,459.5539438621091
+Enel,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,12636.094000000001,157.951175,80,244.66412167729226
+Engie,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,19831.158,202.35875510204082,98,365.2905619068298
+Exxon Mobil,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,10582.807999999999,176.3801333333333,60,346.77967691895645
+Fannie Mae,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,25957.257,254.4829117647059,102,547.228133353419
+FedEx,0,High-Performance Segment 0,High-value customers with strong engagement,24384.885,246.31196969696967,99,487.40476799214684
+Ford Motor,0,High-Performance Segment 0,High-value customers with strong engagement,43893.0424,249.39228636363634,176,541.683488780455
+Gazprom,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,5402.902,101.94154716981132,53,143.65308150146979
+General Electric,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,8637.713,166.10986538461538,52,269.35543777307095
+General Motors,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,12766.847,205.9168870967742,62,362.87566439236485
+Glencore,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,15649.149,279.44908928571425,56,753.2419595025536
+Goldman Sachs Group,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,10831.8255,111.66830412371135,97,238.85980377743894
+HSBC Holdings,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,22703.8405,273.5402469879518,83,542.3167306570723
+Home Depot,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,24123.874,253.93551578947367,95,545.2855157220996
+HonHai Precision Industry,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,18457.415,209.7433522727273,88,460.54056313284013
+Honda Motor,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,21249.714200000002,332.02678437500003,64,1113.6702531245387
+Huawei,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,12904.5314,230.4380607142857,56,466.1825172749589
+Humana,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,24643.5,352.05,70,722.6542244831835
+Intel,0,High-Performance Segment 0,High-value customers with strong engagement,26970.751,221.0717295081967,122,468.19564920756494
+Itochu,0,High-Performance Segment 0,High-value customers with strong engagement,29886.886,210.47102816901406,142,429.20971272417086
+J.P. Morgan Chase & Co.,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,15451.0502,152.98069504950496,101,290.206812838404
+Johnson & Johnson,0,High-Performance Segment 0,High-value customers with strong engagement,29489.572,223.4058484848485,132,662.7923977072162
+Kroger,0,High-Performance Segment 0,High-value customers with strong engagement,29783.459,220.61821481481482,135,360.91128276988326
+Lowes,0,High-Performance Segment 0,High-value customers with strong engagement,40360.163,366.9105727272727,110,1330.2504350146717
+Lukoil,0,High-Performance Segment 0,High-value customers with strong engagement,35199.183,303.4412327586207,116,802.8583522780219
+Marathon Petroleum,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,17494.635000000002,221.45107594936712,79,519.8995031466885
+McKesson,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,14431.006000000001,229.06358730158732,63,366.20755972128774
+Merck,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,17636.56,248.40225352112677,71,457.9037215496512
+Microsoft,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,13444.071,203.69804545454545,66,449.50933535942806
+Mitsubishi,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,16677.843,166.77843000000001,100,287.9565684021543
+Mondelez International,0,High-Performance Segment 0,High-value customers with strong engagement,32993.0458,230.7206,143,1177.4866838081155
+Morgan Stanley,0,High-Performance Segment 0,High-value customers with strong engagement,28631.45,227.23373015873017,126,534.0380216985216
+Nestle,0,High-Performance Segment 0,High-value customers with strong engagement,23194.6402,171.81214962962963,135,271.85279017078415
+News Corp.,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,12942.6106,253.77667843137255,51,524.8746645264122
+Nissan Motor,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,22650.8206,323.5831514285714,70,1012.4259092145563
+Oracle,0,High-Performance Segment 0,High-value customers with strong engagement,21195.178,192.68343636363636,110,335.7686224006574
+Panasonic,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,15882.995,191.36138554216868,83,521.3162094394934
+Pemex,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,12864.395999999999,183.7770857142857,70,395.0911343338154
+PepsiCo,0,High-Performance Segment 0,High-value customers with strong engagement,31638.396,221.24752447552447,143,503.39226167318895
+Petrobras,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,9628.431,192.56862,50,340.65546676460036
+Pfizer,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,19231.6252,237.42747160493826,81,559.8203077909556
+Philip Morris International,0,High-Performance Segment 0,High-value customers with strong engagement,21383.063000000002,185.93967826086958,115,308.5378649298994
+Phillips 66,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,27601.018,320.94206976744186,86,719.0865908473675
+Procter & Gamble,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,12547.691200000001,187.27897313432837,67,314.3449902124519
+Prudential Financial,0,High-Performance Segment 0,High-value customers with strong engagement,20946.2124,136.01436623376622,154,203.07780418446185
+Royal Dutch Shell,0,High-Performance Segment 0,High-value customers with strong engagement,24689.127,228.60302777777778,108,442.43142396187136
+Safeway,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,6633.137,170.08043589743588,39,215.0939700513775
+Samsung Electronics,0,High-Performance Segment 0,High-value customers with strong engagement,23933.328999999998,227.93646666666666,105,524.769442833434
+Siemens,0,High-Performance Segment 0,High-value customers with strong engagement,36008.3686,211.8139329411765,170,526.1910984340212
+Sony,0,High-Performance Segment 0,High-value customers with strong engagement,22780.1968,188.26608925619837,121,333.15024904472256
+Sprint Nextel,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,18852.075,186.6542079207921,101,319.0286912219751
+State Farm Insurance Cos.,0,High-Performance Segment 0,High-value customers with strong engagement,20154.0685,197.58890686274512,102,288.34094620193537
+Sysco,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,18886.152000000002,209.84613333333334,90,422.817905852679
+Target,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,15736.128999999999,321.14548979591837,49,1188.7631554459263
+Tesco,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,8173.226,170.27554166666667,48,283.5668698306851
+Toyota Motor,0,High-Performance Segment 0,High-value customers with strong engagement,25352.511,239.1746320754717,106,534.6469706836523
+Trafigura Group,0,High-Performance Segment 0,High-value customers with strong engagement,33447.127,324.7293883495146,103,1143.009728411906
+Tyson Foods,0,High-Performance Segment 0,High-value customers with strong engagement,40326.344,219.16491304347824,184,449.1052956883347
+United Parcel Service,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,23733.35,269.69715909090905,88,496.0572733058912
+UnitedHealth Group,0,High-Performance Segment 0,High-value customers with strong engagement,35201.625,303.4622844827586,116,565.9763965038734
+Valero Energy,0,High-Performance Segment 0,High-value customers with strong engagement,41220.4188,392.57541714285713,105,1049.6005478677616
+Verizon Communications,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,17567.2625,228.14626623376626,77,422.67530469934184
+Volkswagen,0,High-Performance Segment 0,High-value customers with strong engagement,35200.424,262.6897313432836,134,524.1625700131873
+Walgreens,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,14420.619,212.06792647058825,68,395.5984121506667
+Walmart,0,High-Performance Segment 0,High-value customers with strong engagement,21508.179,187.02764347826087,115,384.13735049015975
+Walt Disney,0,High-Performance Segment 0,High-value customers with strong engagement,29483.005,286.2427669902913,103,549.7212402790037
+Wells Fargo,1,Medium-Performance Segment 1,Moderate-value customers with average engagement,23180.5442,236.53616530612246,98,447.00115216515564
