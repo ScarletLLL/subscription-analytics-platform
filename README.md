@@ -57,7 +57,7 @@ This comprehensive analytics project demonstrates advanced data science capabili
 ├── data/
 │   ├── raw/                    # Simulated SaaS customer data
 │   ├── processed/              # Cleaned and feature-engineered datasets
-│   └── external/               # Third-party data sources
+│   └── results/               # Third-party data sources
 ├── notebooks/
 │   ├── 01_exploratory_analysis/    # Initial data discovery and insights
 │   ├── 02_user_journey_mapping/    # Behavioral flow analysis and optimization
@@ -66,29 +66,8 @@ This comprehensive analytics project demonstrates advanced data science capabili
 │   ├── 05_predictive_analytics/    # Forecasting and propensity modeling
 │   └── 06_performance_dashboards/  # Business intelligence and KPI tracking
 ├── src/
-│   ├── data_processing/        # ETL pipelines and data cleaning
-│   ├── analytics/              # Core analytics functions
-│   ├── modeling/               # Machine learning models
-│   ├── experimentation/        # A/B testing framework
-│   └── visualization/          # Plotting and dashboard utilities
-├── dashboards/
-│   ├── growth_metrics/         # Product growth and user acquisition
-│   ├── user_health_monitor/    # Engagement and retention analytics
-│   ├── experiment_center/      # Testing results and insights
-│   └── revenue_intelligence/   # Monetization and business performance
-├── sql/
-│   ├── user_analytics/         # User behavior and engagement queries
-│   ├── product_metrics/        # Feature usage and performance analysis
-│   ├── growth_analysis/        # Acquisition and retention analytics
-│   └── data_validation/        # Quality assurance and monitoring
-├── reports/
-│   ├── weekly_business_review/ # Automated weekly insights
-│   ├── experiment_readouts/    # Detailed A/B test results
-│   └── deep_dive_analysis/     # Ad-hoc analytical investigations
-└── config/
-    ├── database_connections/   # Database configuration
-    ├── experiment_configs/     # A/B testing parameters
-    └── model_parameters/       # ML model configurations
+    ├── data_processing/        # ETL pipelines and data cleaning
+    └── experimentation/        # A/B testing framework
 ```
 
 ## 🚀 Featured Analytics Projects
