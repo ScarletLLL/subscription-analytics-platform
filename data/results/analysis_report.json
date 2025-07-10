@@ -1,0 +1,24 @@
+{
+  "analysis_date": "2025-07-10 13:53:00",
+  "total_customers": 99,
+  "customer_segments": {
+    "Loyal Customers": 40,
+    "Potential Loyalists": 19,
+    "Promising": 18,
+    "At Risk": 9,
+    "New Customers": 7,
+    "Champions": 6
+  },
+  "kpis": {
+    "total_customers": 99
+  },
+  "alerts": [
+    "\u26a0\ufe0f  20 customers with low engagement scores",
+    "\ud83d\udd34 3 customers at high churn risk (>90 days inactive)"
+  ],
+  "recommendations": [
+    "Focus on 'Loyal Customers' segment - highest revenue contributor",
+    "Implement retention campaign for 7 at-risk customers",
+    "Consider adding these data fields for enhanced analysis: revenue_sum, support_tickets_sum"
+  ]
+}
