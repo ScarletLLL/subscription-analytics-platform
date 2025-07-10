@@ -8,7 +8,7 @@ A/B tests and product experiments. It includes statistical testing, effect size
 calculations, confidence intervals, and visualization capabilities.
 
 Usage:
-    from src.experimentation.experiment_analyzer import ExperimentAnalyzer
+    from src.experimentation import ExperimentAnalyzer
     
     analyzer = ExperimentAnalyzer(df)
     results = analyzer.run_experiment('pricing_test', 'treatment_group', ['conversion_rate', 'revenue'])
@@ -52,7 +52,6 @@ class ExperimentAnalyzer:
     def __init__(self, df):
         self.df = df
         self.results = {}
-
 
 
     def statistical_significance_test(self, metric, experiment_col, alpha=0.05):
