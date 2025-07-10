@@ -1,0 +1,26 @@
+
+PREDICTIVE ANALYTICS EXECUTIVE SUMMARY
+Generated: 2025-07-10 12:31:07
+
+KEY FINDINGS:
+• Total Customers Analyzed: 200
+• Average Customer Lifetime Value: $3779.25
+• Overall Churn Risk: 53.8%
+• High-Risk High-Value Customers: 5
+
+MODEL PERFORMANCE:
+• Best Churn Model: Random Forest (AUC: 1.000)
+• Best Revenue Model: Linear Regression (R²: 1.000)
+
+CUSTOMER SEGMENTS:
+• High Value: 67 customers
+• Medium-High: 0 customers
+• Medium: 66 customers
+• Medium-Low: 0 customers
+• Low Value: 67 customers
+
+IMMEDIATE ACTIONS REQUIRED:
+1. Implement retention campaigns for 5 high-risk customers
+2. Develop upselling strategies for 45 growth opportunity customers
+3. Review pricing strategy for low-engagement segments
+4. Enhance customer support for high-churn-risk segments
