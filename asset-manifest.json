@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/subscription-analytics-platform/static/css/main.c6a2f3d4.css",
+    "main.js": "/subscription-analytics-platform/static/js/main.314b0981.js",
+    "static/js/453.3ca48fd8.chunk.js": "/subscription-analytics-platform/static/js/453.3ca48fd8.chunk.js",
+    "index.html": "/subscription-analytics-platform/index.html",
+    "main.c6a2f3d4.css.map": "/subscription-analytics-platform/static/css/main.c6a2f3d4.css.map",
+    "main.314b0981.js.map": "/subscription-analytics-platform/static/js/main.314b0981.js.map",
+    "453.3ca48fd8.chunk.js.map": "/subscription-analytics-platform/static/js/453.3ca48fd8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6a2f3d4.css",
+    "static/js/main.314b0981.js"
+  ]
+}
