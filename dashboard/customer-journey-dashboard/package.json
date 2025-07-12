@@ -1,7 +1,7 @@
 {
   "name": "customer-journey-dashboard",
   "version": "0.1.0",
-  "homepage": "https://ScarletLLL.github.io/subscription-analytics-platform/dashboard/customer-journey-dashboard",
+  "homepage": "https://ScarletLLL.github.io/subscription-analytics-platform/customer-journey-dashboard",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
