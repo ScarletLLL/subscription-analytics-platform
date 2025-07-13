@@ -71,6 +71,5 @@ This comprehensive analytics project demonstrates advanced data science capabili
 ```
 
 ## Dashboard
-- **customer-journey-dashboard**
-https://scarletlll.github.io/subscription-analytics-platform/customer-journey-dashboard/
+[Customer Journey Dashboard](https://scarletlll.github.io/subscription-analytics-platform/customer-journey-dashboard/)
 
