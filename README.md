@@ -70,3 +70,7 @@ This comprehensive analytics project demonstrates advanced data science capabili
     └── experimentation/        # A/B testing framework
 ```
 
+## Dashboard
+- **customer-journey-dashboard**
+https://scarletlll.github.io/subscription-analytics-platform/customer-journey-dashboard/
+
