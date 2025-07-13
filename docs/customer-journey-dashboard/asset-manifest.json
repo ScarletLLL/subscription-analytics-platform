@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/subscription-analytics-platform/customer-journey-dashboard/static/css/main.c6a2f3d4.css",
+    "main.js": "/subscription-analytics-platform/customer-journey-dashboard/static/js/main.aea4db21.js",
+    "static/js/453.3ca48fd8.chunk.js": "/subscription-analytics-platform/customer-journey-dashboard/static/js/453.3ca48fd8.chunk.js",
+    "index.html": "/subscription-analytics-platform/customer-journey-dashboard/index.html",
+    "main.c6a2f3d4.css.map": "/subscription-analytics-platform/customer-journey-dashboard/static/css/main.c6a2f3d4.css.map",
+    "main.aea4db21.js.map": "/subscription-analytics-platform/customer-journey-dashboard/static/js/main.aea4db21.js.map",
+    "453.3ca48fd8.chunk.js.map": "/subscription-analytics-platform/customer-journey-dashboard/static/js/453.3ca48fd8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6a2f3d4.css",
+    "static/js/main.aea4db21.js"
+  ]
+}
