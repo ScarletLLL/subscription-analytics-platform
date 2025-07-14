@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/subscription-analytics-platform/saas-analytics-dashboard/static/css/main.c4770004.css",
+    "main.js": "/subscription-analytics-platform/saas-analytics-dashboard/static/js/main.2a30892a.js",
+    "static/js/453.4ca42692.chunk.js": "/subscription-analytics-platform/saas-analytics-dashboard/static/js/453.4ca42692.chunk.js",
+    "index.html": "/subscription-analytics-platform/saas-analytics-dashboard/index.html",
+    "main.c4770004.css.map": "/subscription-analytics-platform/saas-analytics-dashboard/static/css/main.c4770004.css.map",
+    "main.2a30892a.js.map": "/subscription-analytics-platform/saas-analytics-dashboard/static/js/main.2a30892a.js.map",
+    "453.4ca42692.chunk.js.map": "/subscription-analytics-platform/saas-analytics-dashboard/static/js/453.4ca42692.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4770004.css",
+    "static/js/main.2a30892a.js"
+  ]
+}
