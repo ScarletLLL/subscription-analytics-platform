@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/subscription-analytics-platform/customer-segmentation-dashboard/static/css/main.64faafe8.css",
+    "main.js": "/subscription-analytics-platform/customer-segmentation-dashboard/static/js/main.5d0786af.js",
+    "static/js/453.9c7ddd5a.chunk.js": "/subscription-analytics-platform/customer-segmentation-dashboard/static/js/453.9c7ddd5a.chunk.js",
+    "index.html": "/subscription-analytics-platform/customer-segmentation-dashboard/index.html",
+    "main.64faafe8.css.map": "/subscription-analytics-platform/customer-segmentation-dashboard/static/css/main.64faafe8.css.map",
+    "main.5d0786af.js.map": "/subscription-analytics-platform/customer-segmentation-dashboard/static/js/main.5d0786af.js.map",
+    "453.9c7ddd5a.chunk.js.map": "/subscription-analytics-platform/customer-segmentation-dashboard/static/js/453.9c7ddd5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64faafe8.css",
+    "static/js/main.5d0786af.js"
+  ]
+}
