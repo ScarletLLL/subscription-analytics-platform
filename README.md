@@ -74,6 +74,7 @@ This comprehensive analytics project demonstrates advanced data science capabili
 - [Customer Journey Dashboard](https://scarletlll.github.io/subscription-analytics-platform/customer-journey-dashboard/)
 - [Product Experiments Dashboard](https://scarletlll.github.io/subscription-analytics-platform/product-experiments-dashboard/)
 - [Customer Segmentation Dashboard](https://scarletlll.github.io/subscription-analytics-platform/customer-segmentation-dashboard/)
+- [SaaS Analytics Dashboard](https://scarletlll.github.io/subscription-analytics-platform/saas-analytics-dashboard/)
 
 
 
