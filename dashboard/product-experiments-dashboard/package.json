@@ -1,6 +1,7 @@
 {
   "name": "product-experiments-dashboard",
   "version": "0.1.0",
+  "homepage": "https://ScarletLLL.github.io/subscription-analytics-platform/product-experiments-dashboard",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
@@ -16,9 +17,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": [
